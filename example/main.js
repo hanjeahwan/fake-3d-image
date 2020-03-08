@@ -1,0 +1,1 @@
+new fake3dImage();
